@@ -20,7 +20,7 @@ PLadmin_Settings = {
 	WhitelistRanked = false; --Automatically whitelist ranked players (DO NOT USE WHEN RANKING ALL PLAYERS) 
 	RankedNukeCmds = true; --Allow ranked players to use nuke commands (Very annoying) 
 	RankedMultiCmd = true; --Allow ranked players to use the arguments: "all, and team", EX: ?kill all 
-	RankedOutput = true; --Chat the output commands of ranked players 
+	RankedOutput = false; --Chat the output commands of ranked players 
 	WhisperToRanked = true; --Use whisper for outputing commands for ranked players 
 };wait()
 
